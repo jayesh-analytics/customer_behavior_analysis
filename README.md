@@ -110,8 +110,8 @@ The full write-up, with charts and the reasoning behind each recommendation, is 
 
 ---
 
-**Jayesh S.** — Data Analyst
-
-Portfolio: https://jayesh-analytics.github.io/ · LinkedIn: https://www.linkedin.com/in/jayesh-s-5566b9220/
+## Built By Jayesh
+**Data Analyst**
+[LinkedIn](https://www.linkedin.com/in/jayesh-s-5566b9220/) · [Portfolio](https://jayesh-analytics.github.io/)
 
 If you spot something I've missed or would have approached differently, I'd genuinely like to hear it.
