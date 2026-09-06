@@ -114,6 +114,7 @@ The full write-up, with charts and the reasoning behind each recommendation, is 
 
 ## Built By Jayesh
 **Data Analyst**
-[LinkedIn](www.linkedin.com/in/jayesh-suthar-dev/) · [Portfolio](https://jayesh-analytics.github.io/)
+[LinkedIn](https://www.linkedin.com/in/jayesh-suthar-dev/) · [Portfolio](https://jayesh-analytics.github.io/)
+
 
 If you spot something I've missed or would have approached differently, I'd genuinely like to hear it.
