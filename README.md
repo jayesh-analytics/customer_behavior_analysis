@@ -65,6 +65,8 @@ A single-page interactive dashboard so a non-analyst can answer their own questi
 - Shipping type comparison
 - Slicers on gender, category, age group and subscription status
 
+![Executive Power BI Dashboard Preview](Assets/dashboard_preview.jpg)
+
 ## What the data said
 
 **Discounting isn't working.** 1,677 of 3,900 orders (43%) carried a discount. Those orders average **$59.28** — versus **$60.13** for full-price orders. The programme is giving away margin without lifting basket size.
